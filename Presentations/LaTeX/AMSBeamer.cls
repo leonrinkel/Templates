@@ -77,6 +77,10 @@
 \setbeamercolor{itemize subitem}{fg=ovgu-inf-blue}
 \setbeamercolor{itemize subsubitem}{fg=ovgu-inf-blue}
 
+\setbeamercolor{enumerate item}{fg=ovgu-inf-blue}
+\setbeamercolor{enumerate subitem}{fg=ovgu-inf-blue}
+\setbeamercolor{enumerate subsubitem}{fg=ovgu-inf-blue}
+
 % Margins
 % \setbeamersize{text margin left=0mm, text margin right=0mm,}
 % \setlength{\textwidth}{\beamer@paperwidth}
